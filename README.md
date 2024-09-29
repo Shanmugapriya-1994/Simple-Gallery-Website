@@ -23,7 +23,7 @@ Welcome to the Gallery Website! This project showcases a beautiful collection of
 
 To run this project locally, follow these steps:
 
- Open `index.html` in your web browser to view the gallery.
+ Open https://shanmugapriya-1994.github.io/Simple-Gallery-Website/  in your web browser to view the gallery.
 
 
 Feel free to modify any sections to better fit your project!
